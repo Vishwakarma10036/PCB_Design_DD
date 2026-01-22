@@ -33,16 +33,16 @@ It uses:
 > Upload these images in the **assets/** folder with same filenames.
 
 ### ✅ Schematic
-![Schematic](assets/schematic.png)
+![Schematic](Schematic.png)
 
 ### ✅ PCB Layout
-![PCB Layout](assets/pcb_layout.png)
+![PCB Layout](pcb_layout.png)
 
 ### ✅ 3D PCB View
-![3D View](assets/pcb_3d.png)
+![3D View](pcb_3d.png)
 
-### ✅ Final Output (Optional)
-![Final Output](assets/final_output.jpg)
+### ✅ Final Output
+![Final Output](final_output.jpg)
 
 ---
 
