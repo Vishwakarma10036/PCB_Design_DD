@@ -3,12 +3,12 @@
 📖 Project Description
 This project is a Digital Diya designed using KiCad 9.0, which works like a smart diya/light.
 It uses:
-LDR07 to detect light/dark conditions
-Condenser Microphone to detect sound (like clap/blow)
-ATtiny85-10P as the controller
-LED as the output glowing diya light
-Battery cell for portable power
-SPDT switch for ON/OFF control
+-LDR07 to detect light/dark conditions
+-Condenser Microphone to detect sound (like clap/blow)
+-ATtiny85-10P as the controller
+-LED as the output glowing diya light
+-Battery cell for portable power
+-SPDT switch for ON/OFF control
 The circuit is designed as a compact PCB layout in KiCad 9.0, suitable for mini DIY electronics projects.
 
 🧩 Components Used (BOM)
