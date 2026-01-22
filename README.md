@@ -33,7 +33,7 @@ It uses:
 > Upload these images in the **assets/** folder with same filenames.
 
 ### ✅ Schematic
-![Schematic](Schematic.png)
+![Schematic](schematic.jpg)
 
 ### ✅ PCB Layout
 ![PCB Layout](pcb_layout.png)
@@ -42,7 +42,7 @@ It uses:
 ![3D View](pcb_3d.png)
 
 ### ✅ Final Output
-![Final Output](final_output.jpg)
+![Final Output](final_output.png)
 
 ---
 
