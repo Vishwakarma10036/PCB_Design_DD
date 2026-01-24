@@ -38,6 +38,9 @@ It uses:
 ### ✅ PCB Layout
 ![PCB Layout](pcb_layout.png)
 
+### ✅ PCB Layout
+![PCB Layout](Gerber.png)
+
 ### ✅ 3D PCB View
 ![3D View](pcb_3d.png)
 
